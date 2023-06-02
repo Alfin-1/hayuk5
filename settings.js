@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 // APIKEY OPEN AI
-global.jeropenai  = "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" // ISI APIKEY LU
+global.jeropenai  = "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" // ISI APIKEY LU
 
 // Api
 global.APIs = {
